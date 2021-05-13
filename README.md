@@ -15,7 +15,7 @@
 ### 步骤说明
 <br/>0. 在群辉中安装好Web Station跟EMBY
 <br/>1. 打开Web Station如图所示新建虚拟主机
-<br><img src="https://github.com/yudian013/embyonekey/blob/master/webstation.png"><br>
+<br><img src="https://github.com//5hrike/embyonekey/blob/master/webstation.png"><br>
 <br/>2. 打开群辉控制面板-安全性-证书
 <br/>点击新建-添加新证书-导入证书-选择下载的私钥跟证书
 <br/>证书下载地址
